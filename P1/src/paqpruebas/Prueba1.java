@@ -7,7 +7,7 @@ public class Prueba1 {
 		System.out.println("Hola Mundo 1!!!");
 		System.out.println("El primer usuario realiza un cambio!!");
 		System.out.println("El segundo usuario realiza un cambio!!");
-
+		System.out.println("Hola user1");
 	}
 
 }
