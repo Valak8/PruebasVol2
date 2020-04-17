@@ -7,6 +7,7 @@ public class Prueba1 {
 		System.out.println("Que dia mas maravilloso");
 		System.out.println("No esto es un puto lio");
 		System.out.println("A la vez user 2");
+		System.out.println("Esto vamos a la vez, ok");
 	}
 
 }
