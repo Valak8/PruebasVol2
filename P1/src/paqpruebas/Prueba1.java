@@ -6,6 +6,7 @@ public class Prueba1 {
 		// TODO Auto-generated method stub
 		System.out.println("Que dia mas maravilloso");
 		System.out.println("No esto es un puto lio");
+		System.out.println("A la vez user 2");
 	}
 
 }
