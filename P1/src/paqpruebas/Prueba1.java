@@ -16,6 +16,7 @@ public class Prueba1 {
 		System.out.println("Esto es lo peor macho");
 		
 		System.out.println("Buenas noches");
+		System.out.println("Buenos dias");
 	}
 
 }
