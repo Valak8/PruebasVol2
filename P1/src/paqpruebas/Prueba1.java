@@ -14,6 +14,7 @@ public class Prueba1 {
 		System.out.println("Hace sol");
 		System.out.println("No hace viento");
 		System.out.println("Y que lo diagas");
+		System.out.println("este dia es una mierda");
 	}
 
 }
