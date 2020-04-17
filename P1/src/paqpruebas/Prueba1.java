@@ -6,7 +6,7 @@ public class Prueba1 {
 		// TODO Auto-generated method stub
 		System.out.println("jdsjsdjik");
 		System.out.println("dbucdhb");
-		System.out.println("ke pasa");
+		System.out.println("ke pasa tron");
 		
 	}
 
