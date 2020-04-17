@@ -8,6 +8,9 @@ public class Prueba1 {
 		System.out.println("El primer usuario realiza un cambio!!");
 		System.out.println("El segundo usuario realiza un cambio!!");
 		System.out.println("Hola user1");
+		System.out.println("hjsdabhjsd");
+		System.out.println("djsdiujdsiisd");
+		System.out.println("djsdiujdsiisd");
 		System.out.println("djsdiujdsiisd");
 		System.out.println("Un nuevo dato");
 	}
