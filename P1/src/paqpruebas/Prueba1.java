@@ -10,9 +10,13 @@ public class Prueba1 {
 		System.out.println("Hola user1");
 		System.out.println("hjsdabhjsd");
 		System.out.println("djsdiujdsiisd");
+<<<<<<< HEAD
 		System.out.println("djsdiujdsiisd");
 		System.out.println("djsdiujdsiisd");
 		System.out.println("Otro dato");
+=======
+		System.out.println("Un nuevo dato");
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
