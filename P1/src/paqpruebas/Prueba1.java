@@ -11,7 +11,7 @@ public class Prueba1 {
 		System.out.println("hjsdabhjsd");
 		System.out.println("djsdiujdsiisd");
 		System.out.println("Un nuevo dato");
-		System.out.println("Otro");
+		System.out.println("Hola");
 	}
 
 }
