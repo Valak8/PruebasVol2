@@ -12,6 +12,7 @@ public class Prueba1 {
 		System.out.println("djsdiujdsiisd");
 		System.out.println("djsdiujdsiisd");
 		System.out.println("djsdiujdsiisd");
+		System.out.println("Otro dato");
 	}
 
 }
