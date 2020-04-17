@@ -19,7 +19,6 @@ public class Prueba1 {
 		System.out.println("Buenos dias");
 		
 		System.out.println("yeyeyeyyeye");
-		
 		System.out.println("wowowoowow");
 	}
 
