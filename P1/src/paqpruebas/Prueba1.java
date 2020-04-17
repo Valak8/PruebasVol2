@@ -14,6 +14,8 @@ public class Prueba1 {
 		
 		System.out.println("No se que coño hago haciendo esta basura");	
 		System.out.println("Esto es lo peor macho");
+		
+		System.out.println("Buenos dias");
 	}
 
 }
