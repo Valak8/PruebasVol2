@@ -13,6 +13,7 @@ public class Prueba1 {
 		System.out.println("Yo genial, que tal el dia?");
 		System.out.println("Hace sol");
 		System.out.println("No hace viento");
+		System.out.println("este dia es una mierda");
 	}
 
 }
